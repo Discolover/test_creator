@@ -1,0 +1,21 @@
+[ ] matching question
+
+FIX:
+[ ] adjacent itemslist have weird positioning when selecting one option for edit
+[ ] new option textarea and pseuo new option has inconsistent resize behaviour. When user is entering a new option he wants it to be a specific height but we it doesn't stay with the element after we have added it to list 
+
+backlog:
+[ ] !consider using map instead of arrays to store questions and options which makes sense if I use order field any way. Need to try first
+[ ] users unique identification using passwords
+[ ] logout for admin
+[ ] set time for test complition
+[ ] grade tests
+[ ] schedule tests
+[ ] automatically resize textbox with more new text
+
+
+consider:
+[ ] is it possible to break my app from client if for example client decides to change IDs of my elements?
+---
+[ ] добавить текст про то, что программа должна работать как в браузере на десктопе, как в браузере на телефоне
+[ ] web apps way easier to break
